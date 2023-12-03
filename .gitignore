@@ -1,3 +1,6 @@
+# ------- website -------
+./website
+
 # ------- C++ -------
 # Prerequisites
 **/*.d
