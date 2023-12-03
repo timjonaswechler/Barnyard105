@@ -1,5 +1,8 @@
+# ------- vscode -------
+.vscode
+
 # ------- website -------
-./website
+website
 
 # ------- C++ -------
 # Prerequisites
