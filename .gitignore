@@ -1,9 +1,6 @@
 # ------- vscode -------
 .vscode
 
-# ------- website -------
-website
-
 # ------- C++ -------
 # Prerequisites
 **/*.d
