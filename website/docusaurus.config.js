@@ -8,15 +8,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Barnyard105',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
+  // url: 'https://your-docusaurus-site.example.com',
   url: 'https://timjonaswechler.github.io',
+  
+  
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
+  // baseUrl: '/',
   baseUrl: '/Barnyard105',
+  
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -66,7 +71,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'My Site 🐓',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
