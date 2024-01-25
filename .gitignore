@@ -7,6 +7,9 @@ bin
 # ------- vscode -------
 .vscode
 
+# ------- Python -------
+.prototype
+
 # ------- C++ -------
 # Prerequisites
 **/*.d
